@@ -1,11 +1,18 @@
-<svg width="854" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 854 120">
+<svg width="1200" height="120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120">
   <defs>
-    <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#7c3aed"/>
-      <stop offset="50%" stop-color="#4c1d95"/>
-      <stop offset="100%" stop-color="#1a0033"/>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981"/>
+      <stop offset="33%" stop-color="#A855F7"/>
+      <stop offset="66%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#2563EB"/>
+    </linearGradient>
+    <linearGradient id="g2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="50%" stop-color="#8B5CF6"/>
+      <stop offset="100%" stop-color="#3B82F6"/>
     </linearGradient>
   </defs>
-  <path d="M0 120L 0 45Q 213.5 5 427 35T 854 20L 854 120 Z" fill="url(#linear)" opacity="0.85"/>
-  <path d="M0 120L 0 30Q 213.5 0 427 25T 854 15L 854 120 Z" fill="url(#linear)" opacity="0.45"/>
+  <path fill="url(#g)" opacity="0.55" d="M0 120 H1200 V45 C1100 5 1000 70 900 40 C800 10 700 65 600 35 C500 5 400 60 300 30 C200 0 100 55 0 25 Z"/>
+  <path fill="url(#g2)" opacity="0.7" d="M0 120 H1200 V55 C1110 15 1010 80 910 45 C810 10 710 75 610 40 C510 5 410 70 310 35 C210 0 110 65 0 35 Z"/>
+  <path fill="url(#g)" d="M0 120 H1200 V65 C1120 25 1020 90 920 55 C820 20 720 85 620 50 C520 15 420 80 320 45 C220 10 120 75 0 45 Z"/>
 </svg>
