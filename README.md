@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Kashika%20Baweja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16" alt="header"/>
+  <img src="./assets/header.svg" alt="Kashika Baweja" width="100%"/>
 </div>
 
 <br/>
@@ -464,5 +464,5 @@ Open To:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=120&section=footer" alt="footer"/>
+  <img src="./assets/footer.svg" alt="footer banner" width="100%"/>
 </div>
