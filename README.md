@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4c1d95,100:7c3aed&height=200&section=header&text=Kashika%20Baweja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Kashika%20Baweja&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=16" alt="header"/>
 </div>
 
 <br/>
@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/📍%20Shahabad%20Markanda%2C%20Haryana%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Shahabad%20Markanda%2C%20Haryana%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Location"/>
 </div>
 
 <br/>
@@ -362,14 +362,14 @@ Worked on an enterprise Hospital Management System designed to improve hospital 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KashikaaBaweja&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="KashikaaBaweja GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=KashikaaBaweja&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&ring_color=7C3AED" alt="KashikaaBaweja GitHub stats"/>
   <img height="180em" src="https://streak-stats.demolab.com?user=KashikaaBaweja&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KashikaaBaweja&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=KashikaaBaweja&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top Languages"/>
 </div>
 
 ---
@@ -379,7 +379,7 @@ Worked on an enterprise Hospital Management System designed to improve hospital 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KashikaaBaweja&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <img src="https://github-trophy.vercel.app/?username=KashikaaBaweja&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -464,5 +464,5 @@ Open To:
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4c1d95,100:1a0033&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4C1D95&height=120&section=footer" alt="footer"/>
 </div>
