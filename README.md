@@ -21,7 +21,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Location-Shahabad%20Markanda%2C%20Haryana%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Location"/>
+  <img src="https://img.shields.io/badge/Location-Chandigarh%2C%20Punjab%2C%20India-0D1117?style=for-the-badge&logo=googlemaps&logoColor=A78BFA" alt="Location"/>
 </div>
 
 <br/>
